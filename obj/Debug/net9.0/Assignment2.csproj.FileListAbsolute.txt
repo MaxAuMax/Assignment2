@@ -1,0 +1,29 @@
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Lab 2/Assignment2/bin/Debug/net9.0/Assignment2
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Lab 2/Assignment2/bin/Debug/net9.0/Assignment2.deps.json
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Lab 2/Assignment2/bin/Debug/net9.0/Assignment2.runtimeconfig.json
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Lab 2/Assignment2/bin/Debug/net9.0/Assignment2.dll
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Lab 2/Assignment2/bin/Debug/net9.0/Assignment2.pdb
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Lab 2/Assignment2/obj/Debug/net9.0/Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Lab 2/Assignment2/obj/Debug/net9.0/Assignment2.AssemblyInfoInputs.cache
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Lab 2/Assignment2/obj/Debug/net9.0/Assignment2.AssemblyInfo.cs
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Lab 2/Assignment2/obj/Debug/net9.0/Assignment2.csproj.CoreCompileInputs.cache
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Lab 2/Assignment2/obj/Debug/net9.0/Assignment2.dll
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Lab 2/Assignment2/obj/Debug/net9.0/refint/Assignment2.dll
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Lab 2/Assignment2/obj/Debug/net9.0/Assignment2.pdb
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Lab 2/Assignment2/obj/Debug/net9.0/Assignment2.genruntimeconfig.cache
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Lab 2/Assignment2/obj/Debug/net9.0/ref/Assignment2.dll
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Assignment2/bin/Debug/net9.0/Assignment2
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Assignment2/bin/Debug/net9.0/Assignment2.deps.json
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Assignment2/bin/Debug/net9.0/Assignment2.runtimeconfig.json
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Assignment2/bin/Debug/net9.0/Assignment2.dll
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Assignment2/bin/Debug/net9.0/Assignment2.pdb
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Assignment2/obj/Debug/net9.0/Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Assignment2/obj/Debug/net9.0/Assignment2.AssemblyInfoInputs.cache
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Assignment2/obj/Debug/net9.0/Assignment2.AssemblyInfo.cs
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Assignment2/obj/Debug/net9.0/Assignment2.csproj.CoreCompileInputs.cache
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Assignment2/obj/Debug/net9.0/Assignment2.sourcelink.json
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Assignment2/obj/Debug/net9.0/Assignment2.dll
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Assignment2/obj/Debug/net9.0/refint/Assignment2.dll
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Assignment2/obj/Debug/net9.0/Assignment2.pdb
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Assignment2/obj/Debug/net9.0/Assignment2.genruntimeconfig.cache
+/Users/maxaumax/Library/CloudStorage/OneDrive-csulb/Classes/S2/Princip Prog Language/Assignment2/obj/Debug/net9.0/ref/Assignment2.dll
