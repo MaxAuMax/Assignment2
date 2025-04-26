@@ -20,9 +20,9 @@ public static class FileAnalyzer
         double size = byteSize;
         int unitIndex = 0;
 
-        while (size >= 1024 && unitIndex < units.Length - 1)
+        while (size >= 1000 && unitIndex < units.Length - 1)
         {
-            size /= 1024;
+            size /= 1000;
             unitIndex++;
         }
 
